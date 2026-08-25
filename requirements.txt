@@ -1,13 +1,7 @@
+setuptools>=70
 streamlit>=1.36
 requests>=2.31
-pandas>=2.0
-openai>=1.40
-pykrx>=1.0.51
-lxml>=5.0
-setuptools
-streamlit>=1.36
-requests>=2.31
-pandas>=2.0
+pandas>=2.0,<2.3
 openai>=1.40
 pykrx>=1.0.51
 lxml>=5.0
